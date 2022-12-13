@@ -5,7 +5,7 @@ edition = "2021"
 
 [[bin]]
 name = "demo"
-path = "src/main.rs"
+path = "src/pizza.rs"
 
 [dependencies]
 regex = "1.4.2"
